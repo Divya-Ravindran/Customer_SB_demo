@@ -1,0 +1,43 @@
+[
+  {
+  "id": 123,
+  "name": "Jovan Lee",
+  "email": "jovan@example.com",
+  "phone": "+49 176 14890478",
+  "age": 32,
+  "projects": "Remote Job Board, Data Migration",
+  "paymentMethods": "PayPal,Stripe",
+  "address": {
+    "street": "Yorckstr. 75",
+    "city": "Berlin",
+    "zipcode": 10965,
+    "country": "Germany"
+    },
+
+    "profileInfo": {
+      "gender": "Male",
+      "married": "Yes",
+      "source": "LinkedIn"
+    }
+  },
+  {
+    "id": 456,
+    "name": "Arctic Lee",
+    "email": "fallback@example.com",
+    "phone": "+49 186 10987658",
+    "age": 46,
+    "projects": "Message Board, Data Integration",
+    "address": {
+      "street": "Schwalbach",
+      "city": "Frankfurt",
+      "zipcode": 11085,
+      "country": "Germany"
+    },
+    "paymentMethods": "ApplePay,Stripe",
+    "profileInfo": {
+      "gender": "Female",
+      "married": "No",
+      "source": "Indeed"
+    }
+  }
+]
